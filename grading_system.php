@@ -25,6 +25,8 @@ function grades($marks) {
     }
 }
 
+
+
 // Example:
 $marks = 88;
 $result = grades($marks);
